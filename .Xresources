@@ -1,0 +1,59 @@
+! Use xrdb to apply changes
+! special
+*.foreground:   #a6a28c
+*.background:   #20201d
+*.cursorColor:  #a6a28c
+*utf8: font
+*.dpi:96
+
+! 1
+!xterm*faceName: Liberation Sans:size=11:antialias=true
+!URxvt.font: xft:Source Code Pro:size=11:antialias=true
+!URxvt.font: xft:Liberation Mono:size=11:antialias=true
+!URxvt.font: xft:Ubuntu Mono:Size=11:antialias=true
+URxvt.font: xft:Ubuntu Mono:medium:size:11:antialias=true
+!URxvt.faceName: xft:Ubuntu Mono:medium:size:11:antialias=true
+
+! scrollbar
+URxvt.scrollBar: false
+
+! black
+URxvt.color0:       #20201d
+URxvt.color8:       #7d7a68
+
+! red
+URxvt.color1:       #d73737
+URxvt.color9:       #d73737
+
+! green
+URxvt.color2:       #60ac39
+URxvt.color10:      #60ac39
+
+! yellow
+URxvt.color3:       #cfb017
+URxvt.color11:      #cfb017
+
+! blue
+URxvt.color4:       #6684e1
+URxvt.color12:      #6684e1
+
+! magenta
+URxvt.color5:       #b854d4
+URxvt.color13:      #b854d4
+
+! cyan
+URxvt.color6:       #1fad83
+URxvt.color14:      #1fad83
+
+! white
+URxvt.color7:       #a6a28c
+URxvtcolor15:      #fefbec
+
+! padding
+*.internalBorder: 5
+
+! border
+*.borderColor:       #484841
+*.borderWidth: 0
+
+
